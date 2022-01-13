@@ -1,0 +1,3 @@
+Seassor Paper Rock Game
+
+The game is develop through the python code . You have enter the paramere Seassor for 's' or Paper for 'p' or Rock for 'r'. Computer generates itself by calling random function of python randint liberary.Have a fun.
